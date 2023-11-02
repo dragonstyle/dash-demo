@@ -1,0 +1,14 @@
+title: Posit
+author: Charles Teague
+version: 1.0.0
+quarto-required: ">=99.9.0"
+contributes:
+  formats:
+    revealjs:
+      theme: [dark, custom.scss]
+      logo: img/logo-white.png
+      title-slide-attributes:
+        data-background-image: img/bg-blue.jpeg
+        data-background-position: bottom
+        data-background-size: auto
+

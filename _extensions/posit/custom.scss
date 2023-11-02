@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+$body-bg: #22384d !default;
+
+$primary: #eb6537 !default;
+$secondary: #4776a0 !default;
+$link-color: $secondary !default;
+
+/*-- scss:rules --*/
+
+.reveal {
+    section {
+    table {
+        a {
+            color: $primary;
+        }
+    }
+}
+}

@@ -1,0 +1,52 @@
+---
+title: "Quarto Dashboards"
+author: Charles Teague
+date: last-modified
+date-format: long
+format: posit-revealjs
+include-in-header:
+  text: |
+    <style>
+    table {
+      margin-left: 0 !important;
+      margin-top: 1em!important;
+      margin-bottom: 2em!important;
+    }
+    </style>
+  
+  
+---
+
+## 
+
+![](img/customer-churn-dashboard.png){.absolute top="50" left="200" width="550" height="450"}
+
+[Make it simple to build compelling interactive dashboards using R, Python, Julia, and Observable.]{.absolute top="550" left="50" right="50" style="font-weight: 600;"}
+
+## Dashboard Basics
+
+-   Dashboards are composed of **cards**
+-   Cards are arranged into **rows** and **columns**
+-   **Pages**, **tabsets**, and **sidebars** allow more advanced layout
+
+With these simple building blocks, it is pretty straightforward to build some cool dashboards...
+
+# \<Simple Dashboard\>
+
+# \<Notebook Dashboard\>
+
+# \<Fancy Dashboard\>
+
+## Learn More {.smaller}
+
+> Quarto 1.4 Pre-release is required to build dashboards
+
+|                      |                                                    |
+|----------------------|----------------------------------------------------|
+| Download Pre-release | <https://quarto.org/docs/download/prerelease.html> |
+| Documentation        | <https://quarto.org/docs/dashboards/>              |
+| Examples             | <https://quarto.org/docs/dashboards/examples/>     |
+
+
+
+
