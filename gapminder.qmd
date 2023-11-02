@@ -2,12 +2,7 @@
 title: "Development Indicators by Continent"
 author: "Gapminder Analytics Group"
 format: dashboard
-nav-buttons: 
-  - twitter
-  - reddit
 --- 
-
-# Visualizations
 
 ```{python}
 import plotly.express as px
@@ -45,10 +40,6 @@ px.line(
 )
 ```
 
-# About
 
-{{< unsplash data.png >}}
-
-{{< lipsum 2 >}}
-
+  
 
